@@ -1,0 +1,1 @@
+Natural language processing (NLP) is a form of artificial intelligence (AI) that allows computers to understand human language, whether it be written, spoken, or even scribbled. As AI-powered devices and services become increasingly more intertwined with our daily lives and world, so too does the impact that NLP has on ensuring a seamless human-computer experience.
